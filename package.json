@@ -22,7 +22,7 @@
         "jest": "^20.0.4",
         "mockdate": "^2.0.1",
         "prettier": "^1.10.2",
-        "postcss": "^8.4.39"
+        "postcss": "^8.4.40"
     },
     "jest": {
         "testRegex": "test.js$"
